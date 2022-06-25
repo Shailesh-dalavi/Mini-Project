@@ -1,0 +1,6 @@
+git init //Initilised command
+git add. //add code
+git commit -m "Message" //commit code
+git push -uorigin main //git push
+
+git pull
