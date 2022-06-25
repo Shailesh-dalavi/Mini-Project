@@ -4,3 +4,10 @@ git commit -m "Message" //commit code
 git push -uorigin main //git push
 
 git pull
+
+
+******To MAKE NEW BRANCH************
+//Branch is like folder
+git branch Shubham   //To make new branch
+
+git branch -M Shubham  //To merge main and this new branch
