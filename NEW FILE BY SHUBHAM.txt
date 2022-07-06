@@ -11,3 +11,4 @@ git pull
 git branch Shubham   //To make new branch
 
 git branch -M Shubham  //To merge main and this new branch
+git status
