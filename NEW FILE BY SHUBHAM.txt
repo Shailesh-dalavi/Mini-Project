@@ -4,7 +4,7 @@ git commit -m "Message" //commit code
 git push -uorigin main //git push
 
 git pull
-
+//shailesh
 
 ******To MAKE NEW BRANCH************
 //Branch is like folder
